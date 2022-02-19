@@ -4,7 +4,7 @@ verify_ssl = true
 name = "pypi"
 
 [packages]
-requests = "==2.1"
+requests = "==2.20.0"
 flask = "==1.1.4"
 simplejson = "*"
 markupsafe = "==2.0.1"
